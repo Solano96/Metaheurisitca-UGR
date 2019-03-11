@@ -1,0 +1,8 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Descripci\'on del problema.}{2}{section.1}
+\contentsline {section}{\numberline {2}Descripci\'on de la aplicaci\'on de los algoritmos empleados al problema.}{3}{section.2}
+\contentsline {section}{\numberline {3}Descripci\'on en pseudoc\'odigo de la estructura del m\'etodo de b\'usqueda}{5}{section.3}
+\contentsline {section}{\numberline {4}Descripci\'on de los algoritmos de comparaci\'on.}{6}{section.4}
+\contentsline {section}{\numberline {5}Procedimiento considerado para el desarrollo de la pr\'actica y manual de usuario.}{7}{section.5}
+\contentsline {section}{\numberline {6}Experimentos y an\'alisis de resultados.}{8}{section.6}
+\contentsline {section}{\numberline {7}Referencias}{13}{section.7}

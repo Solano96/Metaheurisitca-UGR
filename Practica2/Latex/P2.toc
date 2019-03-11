@@ -1,0 +1,9 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Descripci\'on del problema.}{2}{section.1}
+\contentsline {section}{\numberline {2}Descripci\'on de la aplicaci\'on de los algoritmos empleados al problema.}{3}{section.2}
+\contentsline {section}{\numberline {3}Algoritmos gen\'eticos}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Algoritmo gen\'etico estacionario}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Algoritmo gen\'etico generacional}{8}{subsection.3.2}
+\contentsline {section}{\numberline {4}Procedimiento considerado para el desarrollo de la pr\'actica y manual de usuario.}{10}{section.4}
+\contentsline {section}{\numberline {5}Experimentos y an\'alisis de resultados.}{11}{section.5}
+\contentsline {section}{\numberline {6}Referencias}{19}{section.6}
